@@ -1,4 +1,3 @@
-![MasterHead](https://github.com/younisMQ/younisMQ/blob/main/e0779eecebb8eb6c9a84e2ad899885ef.gif?raw=true)
 <h1 align="center">Hi 👋, I'm younis MQ</h1>
 <h3 align="center">السلام عليكم ورحمة الله وبركاته يونس من العراق طالب هندسة البرمجيات المرحلة الثالثة و محب للتعلم</h3>
 <img align="right" width="400" src="https://github.com/younisMQ/younisMQ/blob/main/younis.png?raw=true">
